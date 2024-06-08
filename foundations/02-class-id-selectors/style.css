@@ -1,0 +1,16 @@
+.text {
+    font-family:Verdana, "DejaVu Sans" ,sans-serif ;
+    background-color: rgb(255, 46, 46);
+}
+.text#nbr3 {
+    font-size: 24px;
+}
+#nbr2{
+    color: blue;
+    font-size: 35px;    
+}
+#nbr4 {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
